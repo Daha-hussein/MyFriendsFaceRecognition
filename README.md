@@ -1,5 +1,4 @@
-
-<img width="899" alt="ui_screenshot" src="https://github.com/Daha-hussein/MyFriendsFaceRecognition/assets/120591498/408acf81-adcd-43b5-b4c6-65f7253fe7b5">
+<img width="895" alt="hussein_test" src="https://github.com/Daha-hussein/MyFriendsFaceRecognition/assets/120591498/da5a7f46-1629-4a5c-bb2e-5f787f5f23ae">
 
 # Friend Image Classifier Website
 
